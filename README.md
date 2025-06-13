@@ -1,5 +1,5 @@
 ## Todays weather...
-![](https://files.catbox.moe/jqwydp.png)
+![](https://file.garden/aBm_EJdbGjS8LzRX/adad.png)
 
 <!--
 **WEATHERFORECASTS/WEATHERFORECASTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
